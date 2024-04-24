@@ -1,2 +1,2 @@
 
-## Leetcode - Must-do List for Interview Prep 150 🧩 🧠
+## LeetCode - Must-do List for Interview Prep 150 🧩 🧠
